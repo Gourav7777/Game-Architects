@@ -6,6 +6,12 @@ Gamehub is a gamming website, which has 3 games, HangMan, Rock-Paper-Scissor, Su
 
 <h3>Website Link : https://gamehub-three.vercel.app/ </h3>
 
+![Hangman Image](https://user-images.githubusercontent.com/106386112/230789487-32c37f55-075b-46a8-9a84-4eda45ab390e.png)
+
+![RPS](https://user-images.githubusercontent.com/106386112/230789502-fcd1bbec-0b86-4227-9a19-f3eb2aef85ad.png)
+
+![sudoku](https://user-images.githubusercontent.com/106386112/230789511-36c4f4be-fffb-441c-ad3e-d4aed298c3ae.png)
+
 <h3>Features:</h3>
 
 ~ Navbar
@@ -23,4 +29,7 @@ Gamehub is a gamming website, which has 3 games, HangMan, Rock-Paper-Scissor, Su
 <h3>Tech Stack:</h3> 
 
 HTML | CSS | JavaScript | React | Redux | ExpressJS | NodeJS | MongoDB | Chakra-UI | Tailwind CSS
+
+<h3>Team Members:</h3> 
+
 
