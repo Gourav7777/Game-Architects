@@ -1,6 +1,6 @@
 <h1>GameHub</h1>
 
-![mytheresa app](https://user-images.githubusercontent.com/106386112/210103593-0769cb79-0439-4f1b-a99c-35b0a638555c.png)
+![Landing Page](https://user-images.githubusercontent.com/106386112/230789440-09a2b5c1-c63c-4ba4-9995-8d24a3bcafa1.png)
 
 Gamehub is a gamming website, which has 3 games, HangMan, Rock-Paper-Scissor, Sudoku.
 
