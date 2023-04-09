@@ -46,7 +46,7 @@ export default function Keyboard({
     <div
       style={{
         display: "grid",
-        gridTemplateColumns: "repeat(auto-fit, minmax(70px, 1fr))",
+        gridTemplateColumns: "repeat(auto-fit, minmax(50px, 1fr))",
         gap: ".5rem",
       }}
     >

@@ -86,7 +86,7 @@ function App() {
           margin: "auto",
           textDecoration: "underline",
           fontFamily: "cursive",
-          fontSize: "23px",
+          fontSize: "20px",
           marginTop: "-25px",
           marginBottom: "-40px",
         }}
@@ -114,7 +114,7 @@ function App() {
       >
         <h1
           style={{
-            fontSize: "2rem",
+            fontSize: "1.8rem",
             textAlign: "center",
             fontFamily: "cursive",
           }}
