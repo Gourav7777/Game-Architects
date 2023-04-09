@@ -44,7 +44,7 @@ const Signup = () => {
 
      try {
       
-      let res = await fetch("http://localhost:4300/users/register",{
+      let res = await fetch("https://doubtful-pinafore-wasp.cyclic.app/users/register",{
        method:'POST',
        headers:{
         "content-type":"application/json"

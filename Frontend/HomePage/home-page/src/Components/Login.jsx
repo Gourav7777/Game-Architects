@@ -37,7 +37,7 @@ import { Navigate, useLocation, useNavigate } from 'react-router-dom';
       
    }  
   
-   let res = await fetch("http://localhost:4300/users/login",{
+   let res = await fetch("https://doubtful-pinafore-wasp.cyclic.app/users/login",{
          method:'POST',
          headers:{
           "content-type":"application/json"
