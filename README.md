@@ -28,8 +28,8 @@ Gamehub is a gamming website, which has 3 games: HangMan, Rock-Paper-Scissor, Su
 
 <h3>Tech Stack:</h3> 
 
-HTML | CSS | JavaScript | React | Redux | ExpressJS | NodeJS | MongoDB | Chakra-UI | Tailwind CSS
+HTML | CSS | JavaScript | React | Typescript | ExpressJS | NodeJS | MongoDB | Chakra-UI | Tailwind CSS
 
 <h3>Team Members:</h3> 
 
-Gaurav, Papri Saha, Sonu Gupta, Shivam
+Gourav Bundiwal, Papri Saha, Sonu Gupta, Shivam
