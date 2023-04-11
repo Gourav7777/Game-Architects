@@ -8,7 +8,7 @@
 
 ![sudoku](https://user-images.githubusercontent.com/106386112/230789511-36c4f4be-fffb-441c-ad3e-d4aed298c3ae.png)
 
-Gamehub is a gamming website, which has 3 games: HangMan, Rock-Paper-Scissor, Sudoku.
+Gamehub is a gaming website, which has 3 games: HangMan, Rock-Paper-Scissor, Sudoku.
 
 <h3>Website Link : https://gamehub-three.vercel.app/ </h3>
 
